@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 from numpy import loadtxt
 from datetime import datetime as dt
 from numpy import mean, sqrt

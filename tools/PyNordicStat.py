@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 from mpl_toolkits.mplot3d import Axes3D
 import matplotlib.pyplot as plt
 from numpy import zeros_like, ones_like
