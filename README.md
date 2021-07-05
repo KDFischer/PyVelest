@@ -21,6 +21,7 @@ Pythonic programs:
 - Matplotlib, (https://matplotlib.org/)
 - Statsmodels, (http://www.statsmodels.org/stable/index.html)
 - LatLon (https://pypi.python.org/pypi/LatLon)
+- Basemap
 
 Input files:
 
