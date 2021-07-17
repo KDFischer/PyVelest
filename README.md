@@ -14,7 +14,7 @@ Non-Pythonic program:
 
 - SEISAN, (http://seisan.info/)
 
-Pythonic programs:
+Python modules:
 
 - Numpy, (http://www.numpy.org/)
 - Scipy, (https://www.scipy.org/)
@@ -22,6 +22,7 @@ Pythonic programs:
 - Statsmodels, (http://www.statsmodels.org/stable/index.html)
 - LatLon (https://pypi.python.org/pypi/LatLon)
 - Basemap
+- Pillow
 
 Input files:
 
